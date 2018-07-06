@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SQlite_Practice</string>
+    <string name="registration">REGISTRATION</string>
+    <string name="show_detail">SHOW DETAIL</string>
+    <string name="update_delete">UPDATE / DELETE</string>
+    <string name="name">NAME</string>
+    <string name="enter_name1">Enter Name</string>
+    <string name="password1">PASSWORD</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="phone">PHONE</string>
+    <string name="enter_number">Enter Number</string>
+    <string name="type">TYPE</string>
+    <string name="student_or_instructor">Student or Instructor</string>
+    <string name="submit">SUBMIT</string>
+    <string name="delete">DELETE</string>
+    <string name="update">UPDATE</string>
+    <string name="update_any_information">Update any Information</string>
+    <string name="Edit_name">Enter Name</string>
+    <string name="email">EMAIL :</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="password">PASSWORD</string>
+    <string name="enter_your_password">Enter Your Password</string>
+</resources>
